@@ -1,1 +1,2 @@
-# stock-forecast
+# Forecast stock price using LSTM
+
